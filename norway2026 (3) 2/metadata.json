@@ -1,0 +1,9 @@
+{
+  "name": "Norway2026",
+  "description": "Expert travel assistant for low-cost expedition to Norway (Lofoten -> Oslo). Features itinerary, budget calculators, offline-ready tools, and AI guide.",
+  "requestFramePermissions": [
+    "geolocation",
+    "camera",
+    "microphone"
+  ]
+}

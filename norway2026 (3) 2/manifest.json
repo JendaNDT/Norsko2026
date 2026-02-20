@@ -1,0 +1,26 @@
+{
+  "id": "nord-expedition-2026-unique-id",
+  "short_name": "Nord2026",
+  "name": "NordExpedition 2026",
+  "description": "Průvodce expedicí po Norsku",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/3203/3203071.png",
+      "type": "image/png",
+      "sizes": "192x192",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/3203/3203071.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "theme_color": "#00205B",
+  "background_color": "#ffffff",
+  "orientation": "portrait"
+}
